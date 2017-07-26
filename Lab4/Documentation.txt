@@ -1,0 +1,5 @@
+Approach:
+I used jdbc to authenticate users, and classes and STL libraries for implementation and unit tests.
+
+How to run:
+You would have to make a database for IDE and a table of user to authenticate the user and merge all the files in the project to run it.
